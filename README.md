@@ -1,4 +1,8 @@
-# BubbleCam
+![Bubblecam-screenshot-1280-800](https://github.com/ajaguasin/BubbleCam/assets/24515767/266e56c3-4af8-474e-9d19-8a36079af4dd)
+
+![128](https://github.com/ajaguasin/BubbleCam/assets/24515767/9d1caa12-cc63-47a1-8590-97aab934c2c6)
+
+# BubbleCam 
 
 BubbleCam is an innovative macOS app that allows users to record their screens with a personalized video overlay. This README file provides essential information about the app and how to get support.
 
