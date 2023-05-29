@@ -19,6 +19,22 @@ BubbleCam provides a user-friendly interface for seamless screen recording with 
 4. Position the video overlay on the screen using the provided keyboard commands.
 5. Stop the recording when finished.
 
+## Privacy Policy
+
+BubbleCam is committed to protecting your privacy. This Privacy Policy explains how BubbleCam handles and safeguards your personal information when you use our application. Please read this policy carefully to understand our practices regarding your data.
+
+### Information We Collect
+
+BubbleCam does not collect any personal data or personally identifiable information (PII). We do not gather, store, or transmit any data from your device while you use our application.
+
+### Usage Data
+
+BubbleCam does not collect any usage data or analytics about your interaction with the application. We respect your privacy and believe in providing a safe and secure user experience without compromising your personal information.
+
+### Third-Party Services
+
+BubbleCam does not utilize any third-party services or frameworks that may collect your personal information or track your activity.
+
 ## Support
 
 If you encounter any issues, have questions, or need further assistance with BubbleCam, please don't hesitate to reach out. You can find support by visiting the BubbleCam GitHub repository and opening an issue.
