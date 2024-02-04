@@ -4,7 +4,7 @@
 
 # BubbleCam 
 
-BubbleCam is an innovative macOS app that allows users to record their screens with a personalized video overlay. This README file provides essential information about the app and how to get support.
+BubbleCam is a macOS app that allows users to record their screens with a personalized video overlay. This README file provides essential information about the app and how to get support.
 
 ## Features
 
